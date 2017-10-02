@@ -1,0 +1,12 @@
+﻿生成启动时间为 2017/10/2 星期一 15:31:41。
+     1>项目“C:\Users\Administrator\Desktop\c艹code\snake1\sock\sock.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\新建文件夹\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源1.cpp"
+         源1.cpp
+     1>c:\users\administrator\desktop\c艹code\snake1\sock\源1.cpp(35): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+                 c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850) : 参见“inet_addr”的声明
+     1>已完成生成项目“C:\Users\Administrator\Desktop\c艹code\snake1\sock\sock.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.97

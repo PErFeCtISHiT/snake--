@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "snake1", "snake1\snake1.vcxproj", "{F1A952B0-A197-4517-935A-046353B4566D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sock", "sock\sock.vcxproj", "{84B21584-EC31-442B-88B1-9C08BDEAFB8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1A952B0-A197-4517-935A-046353B4566D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F1A952B0-A197-4517-935A-046353B4566D}.Debug|Win32.Build.0 = Debug|Win32
+		{F1A952B0-A197-4517-935A-046353B4566D}.Release|Win32.ActiveCfg = Release|Win32
+		{F1A952B0-A197-4517-935A-046353B4566D}.Release|Win32.Build.0 = Release|Win32
+		{84B21584-EC31-442B-88B1-9C08BDEAFB8D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{84B21584-EC31-442B-88B1-9C08BDEAFB8D}.Debug|Win32.Build.0 = Debug|Win32
+		{84B21584-EC31-442B-88B1-9C08BDEAFB8D}.Release|Win32.ActiveCfg = Release|Win32
+		{84B21584-EC31-442B-88B1-9C08BDEAFB8D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
